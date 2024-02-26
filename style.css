@@ -31,7 +31,6 @@
     width: 60vw;
     height: 40vh;
     background-color: #403d84;
-    /* border: 3px solid white; */
     border-radius: 10px;
     outline: none;
     font-size: large;
@@ -40,7 +39,6 @@
 }
 
 .row{
-    
     display: flex;
     align-items: center;
     justify-content: center;
@@ -77,7 +75,6 @@ button>img{
     border-radius: 10px;
     outline: none;
     padding: 1vh;
-    /* border: 1px solid white; */
     cursor: pointer;
     color: white;
     appearance: none;
